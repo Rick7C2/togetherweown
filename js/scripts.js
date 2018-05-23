@@ -2726,9 +2726,4 @@ jQuery(window).load(function () {
         });
     }
 
-    console.log('%c This message not included in the download package, it\'s for demo purpose only','font-size: 14px; color: #000000;');
-    console.log('%c PLUME HTML5 Multi-Purpose Template designed and developed by Graphicfort','font-size: 16px; color: #000;');
-    console.log('%c If you like it you can buy it from http://gfort.co/plume','font-size: 16px; color: #000;');
-
-
 });
