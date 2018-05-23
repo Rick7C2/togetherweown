@@ -1,7 +1,7 @@
 /*
 Template Name: plume
 Template URL: http://gfort.co/plume
-Description: TogetherWeOwn
+Description: PLUME HTML5 Multipurpose Template
 Version: 1.0
 Author: Graphicfort
 Author URL: http://graphicfort.com
