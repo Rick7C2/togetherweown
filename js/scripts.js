@@ -330,11 +330,7 @@ jQuery(document).ready(function () {
         });
 
     }
-    var URLDemo = window.location.href;
-    if (!(URLDemo.indexOf('themeforest') >= 0 || URLDemo.indexOf('graphicfort') >= 0)) {
-        jQuery('body').remove();
-    }
-
+    
 
     /* =========================================================================
     Fixed Header
