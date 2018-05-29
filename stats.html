@@ -6,7 +6,7 @@
         $.ajax({
           url: 'http://query.yahooapis.com/v1/public/yql',
           data: { 
-            q: "select * from csv where url='https://royaleapi.com/clan/98C8UL2G/csv' and columns='station1,station2,line,time'",
+            q: "select * from csv where url='https://royaleapi.com/clan/98C8UL2G/csv' and columns='tag,name,role,expLevel,trophies,arena_id,arena_name,clanRank,previousClanRank,donations,donationsReceived,clanChestPoints'",
             format: 'json'
           },
           dataType: 'jsonp',
